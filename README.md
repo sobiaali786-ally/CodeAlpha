@@ -1,6 +1,6 @@
 # CodeAlpha Python Programming Internship Tasks
 
-## 👨‍💻 Intern: [Apna Naam Yahan Likho]
+## 👨‍💻 Intern: sobia ali
 ## 🏢 Organization: CodeAlpha
 ## 📅 Domain: Python Programming
 
